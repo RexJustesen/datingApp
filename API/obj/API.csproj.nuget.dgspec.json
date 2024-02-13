@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/c2m/cSharp/DatingApp/API/API.csproj": {}
+    "C:\\Users\\MicroAi\\Desktop\\myCSharp\\DatingApp\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "/home/c2m/cSharp/DatingApp/API/API.csproj": {
+    "C:\\Users\\MicroAi\\Desktop\\myCSharp\\DatingApp\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/c2m/cSharp/DatingApp/API/API.csproj",
+        "projectUniqueName": "C:\\Users\\MicroAi\\Desktop\\myCSharp\\DatingApp\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "/home/c2m/cSharp/DatingApp/API/API.csproj",
-        "packagesPath": "/home/c2m/.nuget/packages/",
-        "outputPath": "/home/c2m/cSharp/DatingApp/API/obj/",
+        "projectPath": "C:\\Users\\MicroAi\\Desktop\\myCSharp\\DatingApp\\DatingApp\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\MicroAi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MicroAi\\Desktop\\myCSharp\\DatingApp\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/c2m/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\MicroAi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }
