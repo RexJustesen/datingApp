@@ -94,3 +94,11 @@ C:\Users\MicroAi\Desktop\myCSharp\DatingApp\DatingApp\API\obj\Debug\net7.0\refin
 C:\Users\MicroAi\Desktop\myCSharp\DatingApp\DatingApp\API\obj\Debug\net7.0\API.pdb
 C:\Users\MicroAi\Desktop\myCSharp\DatingApp\DatingApp\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\Users\MicroAi\Desktop\myCSharp\DatingApp\DatingApp\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\MicroAi\Desktop\myCSharp\DatingApp\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MicroAi\Desktop\myCSharp\DatingApp\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MicroAi\Desktop\myCSharp\DatingApp\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MicroAi\Desktop\myCSharp\DatingApp\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MicroAi\Desktop\myCSharp\DatingApp\DatingApp\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MicroAi\Desktop\myCSharp\DatingApp\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\MicroAi\Desktop\myCSharp\DatingApp\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MicroAi\Desktop\myCSharp\DatingApp\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
