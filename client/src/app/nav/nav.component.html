@@ -13,9 +13,6 @@
             <a class="nav-link" routerLink="/messages" routerLinkActive="active">Messages</a>
           </li>
         </ng-container>
-        <li class="nav-item">
-          <a class="nav-link" routerLink="/errors" routerLinkActive="active">Errors</a>
-        </li>
       </ul>
       
       <div class="dropdown" *ngIf="(accountService.currentUser$ | async) as user" dropdown>
@@ -29,7 +26,7 @@
         <form *ngIf="!(accountService.currentUser$ | async)" #loginForm ="ngForm" class="d-flex" (ngSubmit)="login()" autocomplete="off">
           <input
           name="username" 
-          [(ngModel)] ="model.username"
+          [(ngModel)]="model.username"
           class="form-control me-2" 
           type="text" placeholder="Username" >
           <input 
