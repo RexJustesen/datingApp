@@ -475,5 +475,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-/DatingApp/DatingApp/API/appsettings.json
+API/appsettings.json
 
