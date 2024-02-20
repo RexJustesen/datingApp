@@ -105,5 +105,3 @@ C:\Users\MicroAi\Desktop\myCSharp\DatingApp\DatingApp\API\bin\Debug\net7.0\Micro
 C:\Users\MicroAi\Desktop\myCSharp\DatingApp\DatingApp\API\bin\Debug\net7.0\Data\UserSeedData.json
 C:\Users\MicroAi\Desktop\myCSharp\DatingApp\DatingApp\API\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\MicroAi\Desktop\myCSharp\DatingApp\DatingApp\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\MicroAi\Desktop\myCSharp\DatingApp\DatingApp\API\bin\Debug\net7.0\CloudinaryDotNet.dll
-C:\Users\MicroAi\Desktop\myCSharp\DatingApp\DatingApp\API\bin\Debug\net7.0\Newtonsoft.Json.dll
